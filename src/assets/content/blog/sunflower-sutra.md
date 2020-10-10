@@ -25,6 +25,10 @@ and the gray Sunflower poised against the sunset, crackly bleak and dusty with t
 
 corolla of bleary spikes pushed down and broken like a battered crown, seeds fallen out of its face, soon-to-be-toothless mouth of sunny air, sunrays obliterated on its hairy head like a dried wire spiderweb,
 
+![](/src/assets/content/images/sharon-mccutcheon-Th_WZMUPnO4-unsplash.jpg)
+
+#### What is it now?
+
 leaves stuck out like arms out of the stem, gestures from the sawdust root, broke pieces of plaster fallen out of the black twigs, a dead fly in its ear,
 
 Unholy battered old thing you were, my sunflower O my soul, I loved you then!
