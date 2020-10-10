@@ -5,6 +5,15 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: heading
+  label: Events
+- type: directory
+  path: src/assets/events
+  label: Workshops
+  create: documents
+  match: "**/*"
+  templates:
+  - blog-post
+- type: heading
   label: Content
 - type: directory
   path: src/assets/content/blog
